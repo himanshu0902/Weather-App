@@ -255,7 +255,7 @@ h1{
 
 
 /* Media queries */
-@media(max-width: 300px){
+@media(max-width: 500px){
     .parameter-container{
         width: 100%;
         display: flex;
@@ -270,7 +270,7 @@ h1{
     .parameter{
         display: flex;
         /* flex-wrap: wrap; */
-        flex-direction: column;
+/*         flex-direction: column; */
         align-items: center;
     }
 
