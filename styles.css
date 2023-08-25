@@ -264,14 +264,14 @@ h1{
         justify-content: center;
         align-items: center;
         margin-top: 2rem;
-        flex-wrap: wrap;
+/*         flex-wrap: wrap; */
     }
 
     .parameter{
         display: flex;
 /*         flex-wrap: wrap; */
         flex-direction: column;
-/*         align-items: center; */
+        align-items: center;
     }
 
     .parameter img{
