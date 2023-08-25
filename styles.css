@@ -257,10 +257,10 @@ h1{
 /* Media queries */
 @media(max-width: 500px){
     .parameter-container{
-        width: 100%;
+        width: 90%;
         display: flex;
 /*         flex-direction: column; */
-        gap:15px 20px;
+        gap:10px 10px;
         justify-content: center;
         align-items: center;
         margin-top: 2rem;
