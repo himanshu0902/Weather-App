@@ -255,7 +255,7 @@ h1{
 
 
 /* Media queries */
-@media(max-width: 300px){
+@media(max-width: 500px){
     .parameter-container{
         width: 100%;
         display: flex;
@@ -282,8 +282,8 @@ h1{
     .parameter p:first-of-type{
         display: flex;
         flex-wrap: wrap;
-        font-size: 0.85rem;
-        font-weight: 600;
+        font-size: 0.75rem;
+        font-weight: 500;
         text-transform: uppercase;
     }
     
