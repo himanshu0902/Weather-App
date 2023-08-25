@@ -255,9 +255,9 @@ h1{
 
 
 /* Media queries */
-@media(max-width: 400px){
+@media(max-width: 300px){
     .parameter-container{
-        width: 90%;
+        width: 100%;
         display: flex;
         flex-direction: column;
         gap:15px 40px;
