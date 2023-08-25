@@ -255,7 +255,7 @@ h1{
 
 
 /* Media queries */
-@media(max-width: 500px){
+@media(max-width: 300px){
     .parameter-container{
         width: 100%;
         display: flex;
