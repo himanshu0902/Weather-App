@@ -282,7 +282,7 @@ h1{
     .parameter p:first-of-type{
         display: flex;
         flex-wrap: wrap;
-        font-size: 0.75rem;
+        font-size: 0.5rem;
         font-weight: 500;
         text-transform: uppercase;
     }
